@@ -10,7 +10,9 @@
 * 📌 Project Overview
   
 Interactive cybersecurity analytics dashboard analyzing attack types, motives, targeted assets, attacker information, and geographic exposure.
+
 📈 Key Highlights
+
 10,228 cybersecurity incident records
 Star Schema data model
 DAX measures and KPIs
